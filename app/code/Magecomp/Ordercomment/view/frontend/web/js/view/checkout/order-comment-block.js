@@ -39,7 +39,7 @@ define(
 
         return Component.extend({
             defaults: {
-                template: 'Magecomp_OrderComment/checkout/order-comment-block'
+                template: 'Magecomp_Ordercomment/checkout/order-comment-block'
             },
             initialize: function () {
                 this._super();
